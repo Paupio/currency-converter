@@ -3,7 +3,7 @@
 ![Paulina](images/kalkulator.jpg)
 
 ## Demo:
-
+https://paupio.github.io/currency-converter/
 
 ## Technologies:
 - BEM
